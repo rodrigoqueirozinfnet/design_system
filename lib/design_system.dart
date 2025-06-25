@@ -1,5 +1,4 @@
-/// A Calculator.
-class Calculator {
-  /// Returns [value] plus 1.
-  int addOne(int value) => value + 1;
-}
+library design_system;
+
+export 'componentes/text/ds_text.dart';
+export 'componentes/text/ds_text_style.dart';
